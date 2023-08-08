@@ -101,7 +101,6 @@ Utilizar branches no Git permite que diferentes desenvolvedores trabalhem em tar
 
 🎬 [Video de Apoio](https://www.youtube.com/watch?v=vkpxf57cngo)
 
-<u>Importante!!!</u> Para quem possui **Linux** ou **MacOs** o git já vem instalado por padrão.
 
 ### ⚙️Configuração
 
